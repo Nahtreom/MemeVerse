@@ -1,0 +1,23 @@
+{
+  "version": "v0",
+  "creation_time": "2025-06-22 17:47:23",
+  "model": "gpt-4.1",
+  "total_documents": 1800,
+  "files": [
+    {
+      "filename": "generated_dialogs_6turns.json",
+      "turns": 6,
+      "document_range": "1-600"
+    },
+    {
+      "filename": "generated_dialogs_12turns.json",
+      "turns": 12,
+      "document_range": "601-1200"
+    },
+    {
+      "filename": "generated_dialogs_18turns.json",
+      "turns": 18,
+      "document_range": "1201-1800"
+    }
+  ]
+}

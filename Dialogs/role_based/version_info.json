@@ -1,0 +1,24 @@
+{
+  "version": "v2",
+  "creation_time": "2025-06-22 23:37:59",
+  "model": "gpt-4.1",
+  "source": "generated_scenarios.json",
+  "total_scenarios": 1144,
+  "files": [
+    {
+      "filename": "generated_dialogs_6turns.json",
+      "turns": 6,
+      "scenario_count": 443
+    },
+    {
+      "filename": "generated_dialogs_12turns.json",
+      "turns": 12,
+      "scenario_count": 353
+    },
+    {
+      "filename": "generated_dialogs_18turns.json",
+      "turns": 18,
+      "scenario_count": 348
+    }
+  ]
+}

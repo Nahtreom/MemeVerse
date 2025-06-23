@@ -1,0 +1,38 @@
+{
+  "generation_time": "2025-06-23 20:27:17",
+  "total_summaries": 31814,
+  "total_dialogs": 2139,
+  "files_processed": 6,
+  "file_details": [
+    {
+      "file": "results/role_based_dialogs/v2/generated_dialogs_12turns_summaries.json",
+      "summaries_count": 3883,
+      "dialogs_count": 113
+    },
+    {
+      "file": "results/role_based_dialogs/v2/generated_dialogs_18turns_summaries.json",
+      "summaries_count": 5916,
+      "dialogs_count": 111
+    },
+    {
+      "file": "results/role_based_dialogs/v2/generated_dialogs_6turns_summaries.json",
+      "summaries_count": 2215,
+      "dialogs_count": 115
+    },
+    {
+      "file": "results/generated_dialogs/v0/generated_dialogs_12turns_summaries.json",
+      "summaries_count": 6600,
+      "dialogs_count": 600
+    },
+    {
+      "file": "results/generated_dialogs/v0/generated_dialogs_18turns_summaries.json",
+      "summaries_count": 10200,
+      "dialogs_count": 600
+    },
+    {
+      "file": "results/generated_dialogs/v0/generated_dialogs_6turns_summaries.json",
+      "summaries_count": 3000,
+      "dialogs_count": 600
+    }
+  ]
+}
