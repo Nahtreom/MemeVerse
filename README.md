@@ -1,7 +1,11 @@
 # MemeCMD: An Automatically Generated Chinese Multi-turn Dialogue Dataset with Contextually Retrieved Memes
 
+<div align="center">
+  
 [![arXiv](https://img.shields.io/badge/arXiv-2507.00891-b31b1b.svg)](https://arxiv.org/abs/2507.00891)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+</div>
 
 <div align="center">
 <img src="imgs/MM-figures.png" alt="MemeCMD Dataset Overview" width="600">
@@ -92,6 +96,19 @@ The MemeCMD dataset provides comprehensive coverage of Chinese multi-turn dialog
   - *Random*: Baseline random meme selection
   - *Greedy*: Highest similarity score selection  
   - *Diversity-aware*: Balanced relevance and diversity selection
+
+## 📱 Examples
+
+<div align="center">
+<img src="Examples/role_based_6_turns_Diversity-awareSelection/role_based_0001_random.png" alt="Example Meme" width="200">
+<img src="Examples/role_based_6_turns_GreedySelection/role_based_0001.png" alt="Example Meme" width="200">
+</div>
+
+Each dialogue in our dataset is enriched with contextually relevant memes, selected using different strategies to enhance the conversation flow and emotional expression.
+
+> [!NOTE]
+>
+> Please check all the examples in Examples
 
 ## 🛠️ Installation
 
