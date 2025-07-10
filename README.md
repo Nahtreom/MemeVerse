@@ -1,4 +1,7 @@
-# MemeCMD: Chinese Multi-turn Dialogue Dataset with Contextual Meme Retrieval
+# MemeCMD: An Automatically Generated Chinese Multi-turn Dialogue Dataset with Contextually Retrieved Memes
+
+![](imgs/MM-figures.pdf)
+
 
 [![arXiv](https://img.shields.io/badge/arXiv-2507.00891-b31b1b.svg)](https://arxiv.org/abs/2507.00891)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
