@@ -100,7 +100,6 @@ The MemeCMD dataset provides comprehensive coverage of Chinese multi-turn dialog
 ## 📱 Examples
 
 <div align="center">
-<img src="Examples/role_based_6_turns_Diversity-awareSelection/role_based_0001_random.png" alt="Example Meme" width="200">
 <img src="Examples/role_based_6_turns_GreedySelection/role_based_0001.png" alt="Example Meme" width="200">
 </div>
 
@@ -108,7 +107,7 @@ Each dialogue in our dataset is enriched with contextually relevant memes, selec
 
 > [!NOTE]
 >
-> Please check all the examples in Examples
+> Please check all the examples in [Examples](./Examples)
 
 ## 🛠️ Installation
 
