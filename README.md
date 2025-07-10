@@ -23,7 +23,14 @@ MemeCMD is a tool that helps match and retrieve memes based on role-based embedd
 ├── imgs/              # Image directory
 ├── Meme Warehouse/    # Contains meme embeddings and figures
 ├── Summary/           # Output summaries
-└── Dialogs/          # Dialog data
+├── Dialogs/          # Dialog data
+├── Examples/           # Contains screenshots of some dialogs
+├── Dialogs_with_meme/ # Stores dialogs that include memes
+├── view-dialogs/      # Web-based visualization tool for browsing dialogs
+├── metric             # Contains evaluation scripts
+│   ├─clip_dialog_similarity_zh.py # for scoring with CLIP
+│   └─gpt4o_score.py    # for scoring with GPT-4o
+
 ```
 
 ## Requirements
