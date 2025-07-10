@@ -1,12 +1,13 @@
 # MemeCMD: An Automatically Generated Chinese Multi-turn Dialogue Dataset with Contextually Retrieved Memes
 
-![](imgs/MM-figures.pdf)
+![](imgs/MM-figures.png)
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2507.00891-b31b1b.svg)](https://arxiv.org/abs/2507.00891)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An automatically generated Chinese multi-turn dialogue dataset with contextually retrieved memes, featuring sophisticated meme retrieval and context-aware matching using role-based embeddings and advanced similarity scoring algorithms.
+
 
 ## 🚀 Overview
 
