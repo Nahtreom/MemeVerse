@@ -1,6 +1,6 @@
 # MemeCMD: An Automatically Generated Chinese Multi-turn Dialogue Dataset with Contextually Retrieved Memes
 
-![](imgs/MM-figures.png)
+<img src="imgs/MM-figures.png" alt="MemeCMD Dataset Overview" width="600">
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2507.00891-b31b1b.svg)](https://arxiv.org/abs/2507.00891)
